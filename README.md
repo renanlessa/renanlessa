@@ -1,7 +1,18 @@
 ## Olá, eu sou o [Renan Lessa](https://beacons.ai/renanlessa) 👋
+___
+| Tech Lead | Senior Java Developer | Instrutor Java | 
 
-### Aqui neste repositório você não vai encontrar muita coisa, mas da uma olhada no GitHub do meu projeto, chamado Panela Dev - o nome é bem questionável - lá tem bastante coisa. 
-### A ideia do projeto é ensinar a linguagem de programação Java para todos aqueles que tem interesse nela, abaixo segue os links para este projeto
+* 👨‍💻 Líder de Engenharia na [CWI](http://www.cwi.com.br)
+* 👨‍🏫 Compartilho um pouco de código Java no [Youtube](https://www.youtube.com/@paneladev)
+* 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela [UCPel](https://ucpel.edu.br/)
+* 👨‍🎓  Pós Graduado em Gerenciamento de Projetos pelo [Senac-RS](https://www.senacrs.com.br/)
+
+
+### ✏️ Comecei minha carreira como programador ainda na faculdade, em meados de 2006, meus primeiros códigos como estagiário foram em ASP.NET, já em 2007 migrei para o Java, onde me encontro até hoje. O que mais aconteceu e por onde passei de lá pra cá, você pode ver no meu [Linkedin](https://www.linkedin.com/in/renan-lessa/)!
+
+<br />
+
+### ✏️ Todo código que tenho compartilhado está no repositório do [Projeto Panela Dev](http://bit.ly/pdev-github) - lá tem bastante coisa. A ideia do projeto é compartilhar conhecimento sobre a  linguagem de programação Java, para todos aqueles que tem interesse, abaixo segue mais informações para acesso ao projeto
 
 
 <div>
