@@ -5,13 +5,13 @@
 * 👨‍💻 Líder de Engenharia na [CWI](http://www.cwi.com.br)
 * 👨‍🏫 Compartilho um pouco de código Java no [Youtube](https://www.youtube.com/@paneladev)
 * 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela [UCPel](https://ucpel.edu.br/)
-* 👨‍🎓  Pós Graduado em Gerenciamento de Projetos pelo [Senac-RS](https://www.senacrs.com.br/)
+* 👨‍🎓 Pós Graduado em Gerenciamento de Projetos pelo [Senac-RS](https://www.senacrs.com.br/)
 
 
-✏️ Comecei minha carreira como programador ainda na faculdade, em meados de 2006, meus primeiros códigos como estagiário foram em ASP.NET, já em 2007 migrei para o Java, onde me encontro até hoje. O que mais aconteceu e por onde passei de lá pra cá, você pode ver no meu [Linkedin](https://www.linkedin.com/in/renan-lessa/)!
+✏️ Comecei minha carreira como programador ainda na faculdade, em meados de 2006, meus primeiros códigos como estagiário foram em ASP.NET, já em 2007 migrei para desenvolvimento em Java, onde continuo até hoje. Caso queira saber mais sobre a minha trajetória profissional da uma olhada no meu [Linkedin](https://www.linkedin.com/in/renan-lessa/)!
 
 
-✏️ Tenho compartilhado código no repositório do [Projeto Panela Dev](http://bit.ly/pdev-github) - lá tem bastante coisa. A ideia do projeto é compartilhar um pouco de conhecimento sobre a linguagem de programação Java, para todos aqueles que tem interesse, abaixo segue mais informações para acesso ao projeto.
+✏️ Tenho compartilhado código no repositório do [Projeto Panela Dev](http://bit.ly/pdev-github) - lá tem bastante coisa. A ideia do projeto é compartilhar um pouco de conhecimento sobre a linguagem de programação Java, abaixo segue mais links sobre o projeto.
 
 
 <div>
